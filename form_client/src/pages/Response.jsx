@@ -76,7 +76,7 @@ function Response() {
         <div className="flex flex-wrap gap-[40px]">
           <FormField
             labelName="Your Name *"
-            placeholder="Shivam"
+            placeholder="Enter Your Name"
             inputType="text"
             value={defaultAnswers[0]}
             handleChange={(event) =>
@@ -106,7 +106,7 @@ function Response() {
           />
           <FormField
             labelName="Batch"
-            placeholder="F3"
+            placeholder="Your Batch"
             inputType="text"
             value={defaultAnswers[3]}
             handleChange={(event) =>

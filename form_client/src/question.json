@@ -1,7 +1,35 @@
 {
-    "question1":"What is benefit of react?",
-    "question2":"What is what is benefit of blockchain in current world?",
-    "question3":"What is meant by networking?",
-    "question4":"Why is css jquery important?",
-    "question5":"What are the benefits if using express"
+    "question1":"Why we need to do algorithm analysis?",
+    "question2":"What are the criteria of algorithm analysis?",
+    "question3":"What is asymptotic analysis of an algorithm?",
+    "question4":"What are asymptotic notations?",
+    "question5":"What is linear data structure?",
+    "question6":"What are common operations that can be performed on a data-structure?",
+    "question7":"Briefly explain the approaches to develop algorithms.",
+    "question8":"What are some examples of divide and conquer algorithms?",
+    "question9":"Why do we use stacks?",
+    "question10":"What operations can be performed on Queues?",
+    "question11":"What is linear searching?",
+    "question12":"How insertion sort and selection sorts are different?",
+    "question13":"How quick sort works?",
+    "question14":"What is tree traversal?",
+    "question15":"What is an AVL Tree?",
+    "question16":"How many spanning trees can a graph has?",
+    "question17":"What is a heap in data structure?",
+    "question18":"What is a recursive function?",
+    "question19":"What is interpolation search technique?",
+    "question20":"What is the prefix and post fix notation of (a + b) * (c + d) ?",
+    "question21":"Mention the features of ADT.",
+    "question22":"Define List ADT?",
+    "question23":"What is a circular linked list?",
+    "question24":"What are the methods to implement stack in C?",
+    "question25":"Define double ended queue?",
+    "question26":"Write the advantages of threaded binary tree.",
+    "question27":"How heap can it be used to represent a priority queue?",
+    "question28":"Define biconnected graph.",
+    "question29":"Define NP - Complete",
+    "question30":"What is a simple graph?"
+
+
+
 }
